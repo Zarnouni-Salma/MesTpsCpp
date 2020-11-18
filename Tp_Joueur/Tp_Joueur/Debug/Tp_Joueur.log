@@ -1,16 +1,5 @@
-﻿Build started 11/11/2020 23:34:54.
-     1>Project "C:\Users\Salma Zerno\Documents\Visual Studio 2013\Projects\Tp_Joueur\Tp_Joueur\Tp_Joueur.vcxproj" on node 2 (Build target(s)).
-     1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\Tp_Joueur.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
-         stdafx.cpp
-     1>C:\Users\SALMAZ~1\AppData\Local\Temp\_CL_621e2344internal_file : fatal error C1001: An internal error has occurred in the compiler.
-         (compiler file 'f:\dd\vctools\compiler\cxxfe\sl\p1\c\p0io.c', line 2807)
-          To work around this problem, try simplifying or changing the program near the locations listed above.
-         Please choose the Technical Support command on the Visual C++ 
-          Help menu, or open the Technical Support help file for more information
-     1>cl : Command line warning D9028: minimal rebuild failure, reverting to normal build
-     1>Done Building Project "C:\Users\Salma Zerno\Documents\Visual Studio 2013\Projects\Tp_Joueur\Tp_Joueur\Tp_Joueur.vcxproj" (Build target(s)) -- FAILED.
-
-Build FAILED.
-
-Time Elapsed 00:00:00.72
+﻿  stdafx.cpp
+  joueur.cpp
+  Tp_Joueur.cpp
+  Génération de code en cours...
+  Tp_Joueur.vcxproj -> C:\Users\Salma Zerno\Desktop\Emsi S1\C++\Homeworks\Tp_Joueur\Debug\Tp_Joueur.exe

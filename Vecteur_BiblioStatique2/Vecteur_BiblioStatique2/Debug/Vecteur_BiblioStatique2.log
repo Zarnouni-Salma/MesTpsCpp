@@ -1,0 +1,3 @@
+﻿  Vecteur.cpp
+C:\Users\Salma Zerno\source\repos\Vecteur_BiblioStatique2\Vecteur_BiblioStatique2\Vecteur.cpp(88): warning C4172: retourne l'adresse d'une variable locale ou : vv temporaire
+  Vecteur_BiblioStatique2.vcxproj -> C:\Users\Salma Zerno\source\repos\Vecteur_BiblioStatique2\Debug\Vecteur_BiblioStatique2.lib
